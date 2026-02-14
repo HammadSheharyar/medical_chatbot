@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain==0.3.26
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+langchain-pinecone
+sentence-transformers
+pypdf
+python-dotenv
+pinecone-client
+-e .
